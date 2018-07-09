@@ -1,0 +1,21 @@
+<languages xmlns:computer="Computer" xmlns:natural="Natural">
+	<computer:language name="C++">
+		<author>Stroustrup</author>
+	</computer:language>
+	<computer:language name="Java">
+		<author>Gosling</author>
+	</computer:language>
+	<computer:language name="Lisp">
+		<author>McCarthy</author>
+	</computer:language>
+	<computer:language name="Modula-2">
+		<author>Wirth</author>
+	</computer:language>
+	<computer:language name="Oberon-2">
+		<author>Wirth</author>
+	</computer:language>
+	<computer:language name="Pascal">
+		<author>Wirth</author>
+	</computer:language>
+	<natural:language name="English" />
+</languages>
